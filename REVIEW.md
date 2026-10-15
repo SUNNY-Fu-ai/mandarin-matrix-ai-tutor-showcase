@@ -30,3 +30,8 @@ The original folder note describes the initial five character previews. Three Ma
 
 ## Image display
 The README image previews use GitHub attachments associated with the same private repository. The private media index is [issue 1](https://github.com/SUNNY-Fu-ai/mandarin-matrix-ai-tutor-showcase/issues/1); retain it while these display attachments are in use. The image bytes are unchanged, and the original PNGs remain in the repository. This avoids the raw-content download host that fails in the current browser connection. All fifteen attachment URLs returned 404 to unauthenticated requests when checked on 16 October 2026. See [display asset mapping](docs/display-assets.json).
+
+## Recording-stage descriptions and recommendation
+The September sandbox is explicitly labelled a very rough engineering prototype before functional fine-tuning. The two 5 October videos are labelled early public-facing demonstrations, followed by the later 14 October recording with UI colours revised using the Mandarin Matrix official website as the brand reference. The public-facing phase remains work in progress.
+
+At the user's explicit request, the unchanged signed recommendation from David Tait has been added as a supporting document, together with a reading preview. The file's archive date is 14 October 2026; no printed letter date is present. Keep the recommendation within the same private review boundary until the final portfolio is approved for public release.

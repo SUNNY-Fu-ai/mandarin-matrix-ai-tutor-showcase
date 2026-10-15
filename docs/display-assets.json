@@ -108,5 +108,16 @@
       "sha256": "53d2f44dfbce7290850be9ece2a1e375fb532adb632f96cd5f6d8e87bb80b3de",
       "anonymous_http_status": 404
     }
+  ],
+  "supporting_documents": [
+    {
+      "repository_path": "docs/recommendation-letter-david-tait-signed.pdf",
+      "download_url": "https://github.com/user-attachments/files/33505055/recommendation-letter-david-tait-signed.pdf",
+      "preview_url": "https://github.com/user-attachments/assets/251229de-6d7a-4134-8772-215393f9dd71",
+      "anonymous_http_status": 404,
+      "bytes": 3110941,
+      "sha256": "48fc1a1d26328a31783f2a2bea88a8ae6d9647ab74d563e0c155c49f307920cb",
+      "attachment_comment": "https://github.com/SUNNY-Fu-ai/mandarin-matrix-ai-tutor-showcase/issues/1#issuecomment-6197817405"
+    }
   ]
 }

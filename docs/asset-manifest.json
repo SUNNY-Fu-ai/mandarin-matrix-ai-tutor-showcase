@@ -117,6 +117,14 @@
       "bytes": 651,
       "sha256": "d1257478d00f5b2f6faadc9664b2a2d47e2057904c1c0f4be9253946716fa844",
       "source_kind": "14 October Drive showcase"
+    },
+    {
+      "source_filename": "2026-10-14_归档_David_Tait_推荐信_签署扫描原件.pdf",
+      "repository_path": "docs/recommendation-letter-david-tait-signed.pdf",
+      "bytes": 3110941,
+      "sha256": "48fc1a1d26328a31783f2a2bea88a8ae6d9647ab74d563e0c155c49f307920cb",
+      "source_kind": "User-provided signed original scan; archived 14 October 2026",
+      "printed_letter_date": null
     }
   ]
 }
