@@ -1,0 +1,112 @@
+{
+  "repository": "https://github.com/SUNNY-Fu-ai/mandarin-matrix-ai-tutor-showcase",
+  "gallery_issue": "https://github.com/SUNNY-Fu-ai/mandarin-matrix-ai-tutor-showcase/issues/1",
+  "checked_date_hkt": "2026-10-16",
+  "assets": [
+    {
+      "repository_path": "images/characters/adult-female-3d.png",
+      "display_url": "https://github.com/user-attachments/assets/48cce43a-9e07-4981-aed1-5beef02ad0ba",
+      "bytes": 559386,
+      "sha256": "efb1f8400670f9c51318fa2aee6fe61248576489ad7ab30034f4c837fb4572c9",
+      "anonymous_http_status": 404
+    },
+    {
+      "repository_path": "images/characters/adult-male-3d.png",
+      "display_url": "https://github.com/user-attachments/assets/8ffca1e6-42cf-47d9-9ca7-077fc9b1b834",
+      "bytes": 566741,
+      "sha256": "320603a37b3d5437f7730db074bd27222c8f3d8bd425de697f0498d6540c2d9c",
+      "anonymous_http_status": 404
+    },
+    {
+      "repository_path": "images/characters/lily-3d.png",
+      "display_url": "https://github.com/user-attachments/assets/5d2d0724-a8d2-4e93-9743-7fb01f17e7f3",
+      "bytes": 460156,
+      "sha256": "ecf93ef5c2626964cccc0c64b5459d288cbd7b61b28679bf367f1bb498aaf196",
+      "anonymous_http_status": 404
+    },
+    {
+      "repository_path": "images/characters/mark-3d-back.png",
+      "display_url": "https://github.com/user-attachments/assets/5418eb0f-168e-4b87-9fc6-c1faf0fe5893",
+      "bytes": 802998,
+      "sha256": "96181cbe4a30867c2d4b52412f48ece83df46deac7bc3bc65d8d48b62b963740",
+      "anonymous_http_status": 404
+    },
+    {
+      "repository_path": "images/characters/mark-3d-front.png",
+      "display_url": "https://github.com/user-attachments/assets/36057cb7-8ef4-46ab-ac6f-37cc31a3a057",
+      "bytes": 846476,
+      "sha256": "5f065bab0bcbc0c4342e667953af37213eae70e7e06eccf406246798d0b97310",
+      "anonymous_http_status": 404
+    },
+    {
+      "repository_path": "images/characters/mark-3d-side.png",
+      "display_url": "https://github.com/user-attachments/assets/d3018a66-81f7-4021-9899-30388d7b2285",
+      "bytes": 757229,
+      "sha256": "0d40f67dc10557766a348efa92ecb3488fa119452164f6b87d8b9a304e93e65b",
+      "anonymous_http_status": 404
+    },
+    {
+      "repository_path": "images/characters/south-asian-lily-3d.png",
+      "display_url": "https://github.com/user-attachments/assets/9a1a8f43-e04e-4946-9d12-4e00bf089bca",
+      "bytes": 697950,
+      "sha256": "61a81990ec7d8d538f5ebf51a46303acf248bfbc27d875eb98db3a6dd0254103",
+      "anonymous_http_status": 404
+    },
+    {
+      "repository_path": "images/characters/south-asian-mark-3d.png",
+      "display_url": "https://github.com/user-attachments/assets/22aef76f-0a1e-4de5-a632-99328d70ba30",
+      "bytes": 452282,
+      "sha256": "ba54640477db26d0e934bef62e37cc53f88ed8e030d63b4f303039f40ab2d507",
+      "anonymous_http_status": 404
+    },
+    {
+      "repository_path": "images/current-app/book-start-2026-10-14.png",
+      "display_url": "https://github.com/user-attachments/assets/7453e6e1-a217-46b5-a563-64a8cf13b517",
+      "bytes": 685643,
+      "sha256": "77f66c673ee8c15821a7547ec43b1ae7b34e8a54d08875c69bc31c44629aa44a",
+      "anonymous_http_status": 404
+    },
+    {
+      "repository_path": "images/current-app/mark-lesson-2026-10-14.png",
+      "display_url": "https://github.com/user-attachments/assets/12e1e52d-7aa8-43a8-b9a3-952374fe85e4",
+      "bytes": 587270,
+      "sha256": "22cf4f1db6cb2a0e96ed921617f62d6997910a5acdbcf9c2ca8062d00abef100",
+      "anonymous_http_status": 404
+    },
+    {
+      "repository_path": "images/mark-original-illustration.png",
+      "display_url": "https://github.com/user-attachments/assets/c30b01ab-a511-47f6-8ca6-d7113f9f7d9d",
+      "bytes": 1092088,
+      "sha256": "0ac680804fbdf6a329f880895722a4280611c5dcbc93816826f240bd946f7ce5",
+      "anonymous_http_status": 404
+    },
+    {
+      "repository_path": "images/public-demo-a-preview.png",
+      "display_url": "https://github.com/user-attachments/assets/0bc5d18c-aa76-4645-8eb0-ed16fddfefaf",
+      "bytes": 441953,
+      "sha256": "139a06ea44c3343b212824dd686b9d30a669ca4b21f738f0e359fe217dfc0540",
+      "anonymous_http_status": 404
+    },
+    {
+      "repository_path": "images/public-demo-b-preview.png",
+      "display_url": "https://github.com/user-attachments/assets/28facd3b-5100-47df-92d5-883cddf32905",
+      "bytes": 459688,
+      "sha256": "a3259e0839295e5429b322105114f8fc64c7e371818918f7e526297f7d8f1719",
+      "anonymous_http_status": 404
+    },
+    {
+      "repository_path": "images/references/lily-original-illustration.png",
+      "display_url": "https://github.com/user-attachments/assets/fba257f2-92ba-49eb-a5b0-e4cce6a1cd98",
+      "bytes": 841449,
+      "sha256": "2103a38dde4dc2c73f3b739af912a3ce9b8fb572946544abd28bd4aa5ea27428",
+      "anonymous_http_status": 404
+    },
+    {
+      "repository_path": "images/sandbox-preview.png",
+      "display_url": "https://github.com/user-attachments/assets/70311948-b9d7-4b5c-b476-d1106c9bba5a",
+      "bytes": 444703,
+      "sha256": "53d2f44dfbce7290850be9ece2a1e375fb532adb632f96cd5f6d8e87bb80b3de",
+      "anonymous_http_status": 404
+    }
+  ]
+}

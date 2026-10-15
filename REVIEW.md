@@ -1,5 +1,5 @@
 # Private portfolio review status
-Updated 15 October 2026 (Hong Kong).
+Updated 16 October 2026 (Hong Kong).
 
 The repository is private and the new recording is in a draft release. No public launch is recorded.
 
@@ -27,3 +27,6 @@ Project fees, contracts, application source code, 3D models, modelling sources, 
 The 14 October MOV is approximately 185.5 MB and is stored as an attachment in the private draft release, avoiding a large Git blob. The original company illustration source files (including PSDs) are not uploaded; only selected existing PNG reference images are used.
 
 The original folder note describes the initial five character previews. Three Mark 3D views were added later that day, making the imported set ten PNGs, one MOV and three text/document files. The company-original Lily reference is an additional locally located PNG; the existing Mark reference already in this repository is reused.
+
+## Image display
+The README image previews use GitHub attachments associated with the same private repository. The private media index is [issue 1](https://github.com/SUNNY-Fu-ai/mandarin-matrix-ai-tutor-showcase/issues/1); retain it while these display attachments are in use. The image bytes are unchanged, and the original PNGs remain in the repository. This avoids the raw-content download host that fails in the current browser connection. All fifteen attachment URLs returned 404 to unauthenticated requests when checked on 16 October 2026. See [display asset mapping](docs/display-assets.json).
