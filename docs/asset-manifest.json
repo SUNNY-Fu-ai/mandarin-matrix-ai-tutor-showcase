@@ -1,0 +1,122 @@
+{
+  "snapshot_date": "2026-10-14",
+  "import_date": "2026-10-15",
+  "timezone": "Asia/Hong_Kong",
+  "preserved_originals": true,
+  "assets": [
+    {
+      "bytes": 587270,
+      "sha256": "22cf4f1db6cb2a0e96ed921617f62d6997910a5acdbcf9c2ca8062d00abef100",
+      "drive_id": "1Ky8bAnR-nSelxhBftZ_M29uUJiEHAC5T",
+      "source_filename": "01_Mark_Current_App_Lesson.png",
+      "repository_path": "images/current-app/mark-lesson-2026-10-14.png"
+    },
+    {
+      "bytes": 685643,
+      "sha256": "77f66c673ee8c15821a7547ec43b1ae7b34e8a54d08875c69bc31c44629aa44a",
+      "drive_id": "1yjy6ak0nkTO4-WGo8vOZf2227gAdH_wg",
+      "source_filename": "02_Current_App_Book_Start_Screen.png",
+      "repository_path": "images/current-app/book-start-2026-10-14.png"
+    },
+    {
+      "bytes": 460156,
+      "sha256": "ecf93ef5c2626964cccc0c64b5459d288cbd7b61b28679bf367f1bb498aaf196",
+      "drive_id": "1c6e-B_XI9WSz9gCrC7tuXR7AbtcUfR4l",
+      "source_filename": "01_Lily_Character_Design.png",
+      "repository_path": "images/characters/lily-3d.png"
+    },
+    {
+      "bytes": 697950,
+      "sha256": "61a81990ec7d8d538f5ebf51a46303acf248bfbc27d875eb98db3a6dd0254103",
+      "drive_id": "1PGt-pjULVlv62YUxqjaJU2v74pqI5d4F",
+      "source_filename": "02_South_Asian_Lily_Character_Design.png",
+      "repository_path": "images/characters/south-asian-lily-3d.png"
+    },
+    {
+      "bytes": 452282,
+      "sha256": "ba54640477db26d0e934bef62e37cc53f88ed8e030d63b4f303039f40ab2d507",
+      "drive_id": "1GwoUhjz1C1yBJCD6dsZyUVY7-oBrwoQr",
+      "source_filename": "03_South_Asian_Mark_Character_Design.png",
+      "repository_path": "images/characters/south-asian-mark-3d.png"
+    },
+    {
+      "bytes": 566741,
+      "sha256": "320603a37b3d5437f7730db074bd27222c8f3d8bd425de697f0498d6540c2d9c",
+      "drive_id": "1D1uVa5x9RRbT0hAvW3yPdcqjJAEIZjGZ",
+      "source_filename": "04_Adult_Male_Character_Design.png",
+      "repository_path": "images/characters/adult-male-3d.png"
+    },
+    {
+      "bytes": 559386,
+      "sha256": "efb1f8400670f9c51318fa2aee6fe61248576489ad7ab30034f4c837fb4572c9",
+      "drive_id": "1cCHoj96PY7Pv8D89T6CvoYcC7DNcwGw5",
+      "source_filename": "05_Adult_Female_Character_Design.png",
+      "repository_path": "images/characters/adult-female-3d.png"
+    },
+    {
+      "bytes": 846476,
+      "sha256": "5f065bab0bcbc0c4342e667953af37213eae70e7e06eccf406246798d0b97310",
+      "drive_id": "1C9fU04jcGQwMwy1pof-6wSFkfyLpPjyo",
+      "source_filename": "06_Mark_Original_Full_Body_Front.png",
+      "repository_path": "images/characters/mark-3d-front.png"
+    },
+    {
+      "bytes": 757229,
+      "sha256": "0d40f67dc10557766a348efa92ecb3488fa119452164f6b87d8b9a304e93e65b",
+      "drive_id": "1jrpODiF6NayDDPFJ3Uij9s5jHGKmhYAq",
+      "source_filename": "07_Mark_Original_Full_Body_Side.png",
+      "repository_path": "images/characters/mark-3d-side.png"
+    },
+    {
+      "bytes": 802998,
+      "sha256": "96181cbe4a30867c2d4b52412f48ece83df46deac7bc3bc65d8d48b62b963740",
+      "drive_id": "16ADO10Af4I5T1NyfQgpHNktNMC0rooST",
+      "source_filename": "08_Mark_Original_Full_Body_Back.png",
+      "repository_path": "images/characters/mark-3d-back.png"
+    },
+    {
+      "bytes": 185546402,
+      "sha256": "4902cbd2f3771e2788dd8141bb1fdbbbec1f96d23ae49a9c519c603751e136d9",
+      "drive_id": "1a-_iKG9LycBXjYvguw95Es3eR5IMGU32",
+      "source_filename": "录屏2026-10-14 10.11.37.mov",
+      "release_asset": "current-app-demo-2026-10-14.mov",
+      "release_url": "https://github.com/SUNNY-Fu-ai/mandarin-matrix-ai-tutor-showcase/releases/tag/untagged-1a1794e5a0ee2cc20f40"
+    },
+    {
+      "bytes": 38506,
+      "sha256": "4198628d6e8d277f5de70c8c41dd026c815d59271c2e102668edd8e9558c1724",
+      "drive_id": "13Gp4NePmcPOcFUe5D0PIaV41QH9IOY6G",
+      "source_filename": "Mandarin_Matrix_AI_Avatar_Product_Introduction.docx",
+      "repository_path": "docs/Mandarin_Matrix_AI_Avatar_Product_Introduction.docx"
+    },
+    {
+      "bytes": 1092088,
+      "sha256": "0ac680804fbdf6a329f880895722a4280611c5dcbc93816826f240bd946f7ce5",
+      "source_kind": "Existing company illustration reference PNG",
+      "source_filename": "mark-company-original.png",
+      "repository_path": "images/mark-original-illustration.png",
+      "note": "Reused existing repository illustration; identical bytes verified."
+    },
+    {
+      "bytes": 841449,
+      "sha256": "2103a38dde4dc2c73f3b739af912a3ce9b8fb572946544abd28bd4aa5ea27428",
+      "source_kind": "Existing company illustration reference PNG",
+      "source_filename": "lily-company-original.png",
+      "repository_path": "images/references/lily-original-illustration.png"
+    },
+    {
+      "source_filename": "Mandarin_Matrix_AI_Avatar_Product_Introduction.txt",
+      "repository_path": "docs/Mandarin_Matrix_AI_Avatar_Product_Introduction.txt",
+      "bytes": 5408,
+      "sha256": "b759f69e6b7dfa57aebae7622eee439962c8f9157f8e3fd6cad32f8327fba2dd",
+      "source_kind": "14 October Drive showcase"
+    },
+    {
+      "source_filename": "00_READ_ME_FIRST.txt",
+      "repository_path": "docs/00_READ_ME_FIRST.txt",
+      "bytes": 651,
+      "sha256": "d1257478d00f5b2f6faadc9664b2a2d47e2057904c1c0f4be9253946716fa844",
+      "source_kind": "14 October Drive showcase"
+    }
+  ]
+}

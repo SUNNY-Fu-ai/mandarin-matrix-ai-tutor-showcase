@@ -1,68 +1,99 @@
-# Mandarin Matrix AI tutor project showcase
+# Mandarin Matrix AI Avatar
+**Tianyue Fu · AI-assisted 3D modelling and software integration · 2026**
 
-Tianyue Fu · Independent software and AI engineering consultant · 2026
+[中文说明](README.zh-CN.md) · [Product introduction](docs/product-introduction.md) · [Review status](REVIEW.md)
 
-**Private portfolio draft. Public release is pending Mandarin Matrix's written permission.**
+> **Private portfolio review draft.** The latest materials are dated **14 October 2026**. The public-facing prototype remains a work in progress. Mandarin Matrix must review the exact page and selected media before this repository is made public.
 
-[中文说明](README.zh-CN.md)
+An interactive Mandarin-speaking web prototype that connects a speaking 3D character with Mandarin Matrix's graded learning materials. Learners select a book or lesson and practise its vocabulary and sentence patterns through spoken conversation.
 
-This portfolio presents two stages of a commissioned AI Mandarin-teacher project: an engineering sandbox and a subsequent public-facing interactive prototype. The three videos show development at different points in time. The later prototype remains unfinished.
+## Latest app demonstration · 14 October 2026
+
+**Mark in the current prototype.** These screenshots and the recording capture the version supplied for the showcase on 14 October. They are development demonstrations, rather than evidence of a finished commercial release.
+
+[![Mark in the Countries lesson](images/current-app/mark-lesson-2026-10-14.png)](https://github.com/SUNNY-Fu-ai/mandarin-matrix-ai-tutor-showcase/releases/tag/untagged-1a1794e5a0ee2cc20f40)
+
+**[Open the complete 14 October recording on GitHub](https://github.com/SUNNY-Fu-ai/mandarin-matrix-ai-tutor-showcase/releases/tag/untagged-1a1794e5a0ee2cc20f40)** — the original MOV is attached to a private draft release. Open the release and download the recording asset to play it. The original is preserved without alteration.
+
+| Mark · lesson conversation | Book and lesson entry |
+|---|---|
+| ![Mark teaching the Countries lesson](images/current-app/mark-lesson-2026-10-14.png) | ![Current book and lesson entry screen](images/current-app/book-start-2026-10-14.png) |
+| © Mandarin Matrix Limited · work in progress | © Mandarin Matrix Limited · work in progress |
+
+## From the original characters to 3D
+
+The left column shows **Mandarin Matrix's original 2D character illustrations**. The right column shows the corresponding **3D appearance previews** developed for the project. The original illustrations are company assets; the 3D adaptation and integration document my contribution.
+
+| Character | Original 2D illustration · Mandarin Matrix | 3D appearance preview |
+|---|---|---|
+| **Mark** | ![Mark — original company illustration](images/mark-original-illustration.png) | ![Mark — 3D front render](images/characters/mark-3d-front.png) |
+| **Lily** | ![Lily — original company illustration](images/references/lily-original-illustration.png) | ![Lily — 3D appearance preview](images/characters/lily-3d.png) |
+
+© Mandarin Matrix Limited. Mark and Lily are clearly identified above. The comparisons are part of the private review draft.
+
+### Mark · 3D views
+
+| Front | Side | Back |
+|---|---|---|
+| ![Mark 3D front](images/characters/mark-3d-front.png) | ![Mark 3D side](images/characters/mark-3d-side.png) | ![Mark 3D back](images/characters/mark-3d-back.png) |
+
+These three files are **3D renders of the original Mark character variant**. The word “Original” in the supplied filenames distinguishes this variant from South Asian Mark; it does not mean they are the company's original 2D illustrations.
+
+### Developing character family
+
+| Lily | South Asian Lily | South Asian Mark |
+|---|---|---|
+| ![Lily 3D preview](images/characters/lily-3d.png) | ![South Asian Lily 3D preview](images/characters/south-asian-lily-3d.png) | ![South Asian Mark 3D preview](images/characters/south-asian-mark-3d.png) |
+
+| Adult male | Adult female |
+|---|---|
+| ![Adult male appearance preview](images/characters/adult-male-3d.png) | ![Adult female appearance preview](images/characters/adult-female-3d.png) |
+
+**Appearance previews only.** As stated when these five designs were shared on 14 October, expression, lip-sync and animation preparation is still in progress. The images do not establish that these characters are available in a completed animated release. © Mandarin Matrix Limited.
 
 ## My contribution
 
-My work involved clarifying teaching and product requirements, proposing the system architecture, organising teaching assets for the AI pipeline, integrating real-time voice interaction with an animated avatar, developing prototype interfaces, and testing and refining the demonstrations in response to client feedback.
+- Proposed the voice-driven avatar architecture and organised the development workflow.
+- Adapted Mark into 3D and worked on avatar animation, expression controls and lip-sync.
+- Organised Mandarin Matrix teaching materials for the lesson and conversation pipeline.
+- Integrated spoken AI interaction and developed the prototype interfaces.
+- Refined the user experience and teaching flow in response to client and teacher feedback.
 
-I used AI-assisted coding and modelling tools. My role included directing the workflow, evaluating outputs and resolving integration problems. Mandarin Matrix supplied the original characters, illustrations and teaching content.
+AI-assisted coding and modelling tools were used during development. My work included setting requirements, directing those tools, checking outputs and resolving integration problems. Mandarin Matrix supplied the original characters, illustrations and teaching content. The current product introduction describes the voice component as Grok technology from xAI.
 
-## Stage 1 Engineering sandbox
+## Earlier milestones
 
-**Status: completed paid sandbox phase.** Video sent to Mandarin Matrix on 20 September 2026.
+### Engineering sandbox · September 2026
 
-The engineering interface exposes development controls and diagnostics while demonstrating a live conversation with the Mark avatar. It records the sandbox milestone rather than the later public-facing product.
+**Completed sandbox phase.** The demonstration video was sent on 20 September 2026 and records that engineering milestone.
 
-[![Engineering sandbox video](images/sandbox-preview.png)](media/sandbox-engineering-demo.mp4)
+[![Engineering sandbox demonstration](images/sandbox-preview.png)](media/sandbox-engineering-demo.mp4)
 
-[Watch or download the complete sandbox video](media/sandbox-engineering-demo.mp4) · 56 seconds
+[Complete sandbox video](media/sandbox-engineering-demo.mp4) · approximately 56 seconds · © Mandarin Matrix Limited
 
-## Stage 2 Public-facing interactive prototype
+### Public-facing prototype · 5 October 2026
 
-**Status: work in progress.** Both recordings were sent on 5 October 2026. The agreed next phase targets a web-ready demonstration prototype; these recordings do not represent a completed commercial release.
+**Work in progress.** These two earlier recordings preserve the progress shown to Mandarin Matrix on 5 October; they do not represent completion of the later phase.
 
-The examples show the lesson interface, avatar interaction, spoken practice and on-screen dialogue in two course contexts.
-
-| Demo A It's Cold Outside | Demo B Countries |
+| Demo A · It's Cold Outside | Demo B · Countries |
 |---|---|
 | [![Demo A](images/public-demo-a-preview.png)](media/public-interface-demo-a.mp4) | [![Demo B](images/public-demo-b-preview.png)](media/public-interface-demo-b.mp4) |
-| [Complete video](media/public-interface-demo-a.mp4) · 1 minute 47 seconds | [Complete video](media/public-interface-demo-b.mp4) · 1 minute 44 seconds |
+| [Complete video](media/public-interface-demo-a.mp4) · approximately 1:47 | [Complete video](media/public-interface-demo-b.mp4) · approximately 1:44 |
 
-The public-facing recordings show a local development preview. The display copies preserve their full duration, playback speed and sound, with the browser tab and address bar area removed.
+© Mandarin Matrix Limited. The existing display copies preserve their duration, speed and sound, with browser tabs and the address bar removed.
 
-## Mark Character reference and 3D adaptation
+## Project Credits & Intellectual Property Notice
 
-The comparison below presents Mandarin Matrix's original Mark illustration and a rendered preview of the Mark avatar adaptation used in the project. This section documents the modelling work and its relationship to the client's existing character.
+Mark and Lily are original characters owned by Mandarin Matrix, including all associated character designs and illustrations. This showcase highlights Tianyue Fu's contributions to 3D modelling and software integration, developed with the assistance of AI tools. All intellectual property rights remain with Mandarin Matrix. Display is permitted solely for educational and personal portfolio purposes.
 
-| Original character illustration | 3D avatar render |
-|---|---|
-| ![Original Mark illustration](images/mark-original-illustration.png) | ![Rendered Mark avatar](images/mark-avatar-render.png) |
+© 2026 Mandarin Matrix Limited. All rights reserved. No commercial reuse or transfer of ownership is implied.
 
-## Credits and rights
+This private review repository contains selected media and explanatory documents. It contains no application source code, 3D model or modelling source files, contracts, project fees, account credentials or private email transcripts.
 
-Mark is a Mandarin Matrix character. The original character design, illustrations and teaching content belong to Mandarin Matrix. This showcase documents Tianyue Fu's AI-assisted 3D modelling and software integration work for the project.
+## Documents and source inventory
 
-The current modelling gallery presents Mark.
-
-Publication requires the client's approval of the selected media and description. Display media are presented for portfolio viewing; this showcase does not grant permission to reuse the company's characters or content.
-
-## Timeline
-
-| Date | Milestone |
-|---|---|
-| August 2026 | Product discussions, blueprint and signed consultancy arrangement |
-| 25 August 2026 | Sandbox development start |
-| 20 September 2026 | Engineering demonstration video sent |
-| 21 September 2026 | Sandbox delivery notice and next prototype phase agreed |
-| 5 October 2026 | Two public-facing prototype recordings sent |
-| Current status | Later prototype remains under development |
-
-This private repository contains demonstration media and explanatory text. Application source code, 3D model files, contracts, account credentials and private correspondence are outside its display scope.
-
+- [Product introduction](docs/product-introduction.md) — readable version.
+- [Original Word introduction](docs/Mandarin_Matrix_AI_Avatar_Product_Introduction.docx) and [plain-text copy](docs/Mandarin_Matrix_AI_Avatar_Product_Introduction.txt).
+- [Original 14 October folder note](docs/00_READ_ME_FIRST.txt) — preserved as supplied; the folder later gained the three Mark views.
+- [Media inventory and checksums](docs/asset-manifest.json).
+- [Publication review items](REVIEW.md) — the repository and recording release remain private pending review.

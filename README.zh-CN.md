@@ -1,64 +1,98 @@
-# Mandarin Matrix AI 虚拟老师项目展示
+# Mandarin Matrix AI 虚拟老师
+**傅天悦 Tianyue Fu · AI 辅助 3D 建模与软件集成 · 2026 年**
 
-傅天悦 Tianyue Fu · 独立软件与 AI 工程顾问 · 2026 年
+[English](README.md) · [产品介绍](docs/product-introduction.md) · [审阅状态](REVIEW.md)
 
-**当前为私人仓库展示稿，公开发布仍等待 Mandarin Matrix 的书面许可。**
+> **私人作品展示审阅稿。** 最新材料日期为 **2026 年 10 月 14 日**。对外展示原型整体仍在开发中，公开前须由 Mandarin Matrix 审阅具体页面和所选素材。
 
-[English version](README.md)
+这个网页原型把会说话的 3D 角色与 Mandarin Matrix 分级教材连接起来，让学习者围绕所选书本、词汇和句型进行口语练习。
 
-这份作品展示包含两个不同阶段：已完成的沙盒工程演示，以及仍在开发中的对外展示交互原型。三个视频分别记录了不同时间点的进度，后两段不代表后续版本已经完成。
+## 最新界面与录屏 · 2026 年 10 月 14 日
+
+当前演示使用 **Mark**。两张截图和录屏记录的是当天提供给公司的开发中版本。
+
+[![Mark 在国家课程中进行口语练习](images/current-app/mark-lesson-2026-10-14.png)](https://github.com/SUNNY-Fu-ai/mandarin-matrix-ai-tutor-showcase/releases/tag/untagged-1a1794e5a0ee2cc20f40)
+
+**[在 GitHub 打开 10 月 14 日完整录屏](https://github.com/SUNNY-Fu-ai/mandarin-matrix-ai-tutor-showcase/releases/tag/untagged-1a1794e5a0ee2cc20f40)**：原始 MOV 放在私人草稿 Release 的附件中，可打开后下载播放。录屏内容保持原样。
+
+| Mark 课程对话 | 书本与课程入口 |
+|---|---|
+| ![Mark 课程对话](images/current-app/mark-lesson-2026-10-14.png) | ![书本与课程入口](images/current-app/book-start-2026-10-14.png) |
+
+© Mandarin Matrix Limited · 开发中展示
+
+## 公司原画与 3D 建模对照
+
+左侧是 **Mandarin Matrix 原有的二维角色插画**，右侧是项目中的 **3D 外观预览**。原画属于公司；展示记录我的 3D 适配与集成工作。
+
+| 角色 | 公司原画 | 3D 外观预览 |
+|---|---|---|
+| **Mark** | ![Mark 公司原画](images/mark-original-illustration.png) | ![Mark 3D 正面](images/characters/mark-3d-front.png) |
+| **Lily** | ![Lily 公司原画](images/references/lily-original-illustration.png) | ![Lily 3D 外观](images/characters/lily-3d.png) |
+
+© Mandarin Matrix Limited。对照排版仍属私人审阅稿。
+
+### Mark 三视图
+
+| 正面 | 侧面 | 背面 |
+|---|---|---|
+| ![Mark 正面](images/characters/mark-3d-front.png) | ![Mark 侧面](images/characters/mark-3d-side.png) | ![Mark 背面](images/characters/mark-3d-back.png) |
+
+这三张是原版 Mark 角色的 **3D 渲染图**。源文件名中的 “Original” 用于区别南亚版 Mark，不能误标成公司的二维原画。
+
+### 新角色外观预览
+
+| Lily | 南亚版 Lily | 南亚版 Mark |
+|---|---|---|
+| ![Lily](images/characters/lily-3d.png) | ![南亚版 Lily](images/characters/south-asian-lily-3d.png) | ![南亚版 Mark](images/characters/south-asian-mark-3d.png) |
+
+| 成人男性 | 成人女性 |
+|---|---|
+| ![成人男性](images/characters/adult-male-3d.png) | ![成人女性](images/characters/adult-female-3d.png) |
+
+**仅展示当前外观。** 按 10 月 14 日分享时的说明，这五个新设计的表情、口型同步和动画准备仍在进行；这些图片不代表角色已经完成动画验收或正式上线。© Mandarin Matrix Limited。
 
 ## 我的工作
 
-我参与教学与产品需求梳理、系统架构方案、教材资源的 AI 流程整理、实时语音与动态头像的集成、交互界面原型、测试，以及根据客户反馈修改演示。
+- 设计语音驱动数字人架构并组织开发流程。
+- 将 Mark 适配为 3D，开展表情、动画和口型同步工作。
+- 整理教材资源，接入课程与对话流程。
+- 集成实时语音交互并开发原型界面。
+- 根据公司和中文教师的反馈改进教学流程与交互。
 
-开发使用了 AI 辅助编码与建模工具。我的职责包括设定要求、组织工作流程、检查产物和解决集成问题。原角色设计、插画和教学内容由 Mandarin Matrix 提供。
+开发使用了 AI 辅助编码与建模工具，我负责设定要求、组织工具工作、检查结果和解决集成问题。原角色、插画和教学内容由 Mandarin Matrix 提供。当前产品介绍中使用的语音技术为 xAI 的 Grok。
 
-## 第一阶段 沙盒工程演示
+## 早期阶段演示
 
-**状态：沙盒阶段已完成并获得项目报酬。** 该视频于 2026 年 9 月 20 日发给公司。
+### 沙盒工程阶段 · 2026 年 9 月
 
-视频展示带有工程控制与诊断信息的界面，以及与 Mark 头像的实时对话。它对应早期沙盒里程碑。
+**沙盒阶段已完成。** 视频于 9 月 20 日发给公司，记录这一工程里程碑。
 
 [![沙盒工程演示](images/sandbox-preview.png)](media/sandbox-engineering-demo.mp4)
 
-[观看或下载完整视频](media/sandbox-engineering-demo.mp4) · 约 56 秒
+[完整视频](media/sandbox-engineering-demo.mp4) · 约 56 秒 · © Mandarin Matrix Limited
 
-## 第二阶段 对外展示交互原型
+### 对外展示原型 · 2026 年 10 月 5 日
 
-**状态：开发中。** 两个视频于 2026 年 10 月 5 日发给公司，记录的是面向对外演示的未完成版本。
+**开发中。** 保留此前发给公司的两段演示，供查看项目进展。
 
-| 演示 A 外面很冷 | 演示 B 国家 |
+| 演示 A · 外面很冷 | 演示 B · 国家 |
 |---|---|
 | [![演示 A](images/public-demo-a-preview.png)](media/public-interface-demo-a.mp4) | [![演示 B](images/public-demo-b-preview.png)](media/public-interface-demo-b.mp4) |
 | [完整视频](media/public-interface-demo-a.mp4) · 约 1 分 47 秒 | [完整视频](media/public-interface-demo-b.mp4) · 约 1 分 44 秒 |
 
-展示副本保留完整时长、播放速度和声音，裁除了浏览器标签及地址栏区域。录制内容是本地开发预览。
+© Mandarin Matrix Limited。原有展示副本保留完整时长、速度和声音，并已裁除浏览器标签与地址栏。
 
-## Mark 原角色与 3D 建模展示
+## 署名与知识产权
 
-| Mandarin Matrix 原插画 | Mark 头像渲染图 |
-|---|---|
-| ![Mark 原插画](images/mark-original-illustration.png) | ![Mark 头像渲染图](images/mark-avatar-render.png) |
+Mark 和 Lily 是 Mandarin Matrix 拥有的原创角色，相关设计及插画的权利属于 Mandarin Matrix。本展示介绍傅天悦在 AI 工具辅助下完成的 3D 建模与软件集成工作。所有相关知识产权仍属于 Mandarin Matrix，展示仅用于教育与个人作品集。
 
-对照图展示的是基于公司既有角色开展的 3D 适配工作。当前建模展示包含 Mark。
+英文版权声明使用公司提供的简洁版本，见 [English README](README.md#project-credits--intellectual-property-notice)。
 
-## 版权与归属
+© 2026 Mandarin Matrix Limited。展示不转让所有权，也不授予商业再利用许可。
 
-Mark 是 Mandarin Matrix 的角色。原角色设计、插画和教学内容属于 Mandarin Matrix。这份展示记录傅天悦在该项目中的 AI 辅助建模与软件集成工作。
+仓库仅收录展示媒体和说明，不含应用源码、3D 模型或建模源文件、合同、项目费用、账号凭据和私人邮件原文。
 
-媒体和说明须经公司同意后公开。作品展示不授予访客复制、改编或再利用公司角色与内容的许可。
+## 相关文件
 
-## 项目时间线
-
-| 时间 | 事项 |
-|---|---|
-| 2026 年 8 月 | 产品讨论、蓝图与正式顾问合作 |
-| 8 月 25 日 | 沙盒开发开工 |
-| 9 月 20 日 | 发送工程演示视频 |
-| 9 月 21 日 | 发出沙盒交付通知并确认后续原型阶段 |
-| 10 月 5 日 | 发送两段对外展示原型视频 |
-| 当前 | 后续版本仍在开发 |
-
-此私人仓库包含展示媒体和说明。程序源码、3D 模型文件、合同、账号信息和私人往来不属于展示范围。
-
+[产品介绍](docs/product-introduction.md) · [Word 原件](docs/Mandarin_Matrix_AI_Avatar_Product_Introduction.docx) · [纯文本原件](docs/Mandarin_Matrix_AI_Avatar_Product_Introduction.txt) · [原文件夹说明](docs/00_READ_ME_FIRST.txt) · [素材清单与校验值](docs/asset-manifest.json) · [公开前审阅事项](REVIEW.md)
